@@ -16,3 +16,4 @@ development and blockchain architecture journey.
 | Date | Milestone |
 |------|-----------|
 | April 2026 | Journey begins |
+| April 2026 | Cyfrin: Blockchain Basics | ✅ Complete |
