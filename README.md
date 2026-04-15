@@ -11,9 +11,19 @@ development and blockchain architecture journey.
 
 ---
 
+## Roadmap Progress
+
+| Phase | Course | Status |
+|-------|--------|--------|
+| Phase 1 | Cyfrin: Blockchain Basics | ✅ Complete — Certified |
+| Phase 1 | Cyfrin: Solidity Fundamentals | 🟡 In Progress |
+| Phase 1 | Cyfrin: Foundry Fundamentals | ⬜ Upcoming |
+| Phase 1 | Project: Smart Vault (EIP-7702) | ⬜ Upcoming |
+
 ## Progress Log
 
-| Date | Milestone |
-|------|-----------|
-| April 2026 | Journey begins |
-| April 2026 | Cyfrin: Blockchain Basics | ✅ Complete |
+| Date | Milestone | Notes |
+|------|-----------|-------|
+| April 2026 | Repository created | Day 1 — Journey begins |
+| April 2026 | Cyfrin: Blockchain Basics | ✅ Complete — First try pass |
+| April 2026 | Cyfrin: Solidity Fundamentals | 🟡 Started |
