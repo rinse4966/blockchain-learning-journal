@@ -15,16 +15,17 @@ development and blockchain architecture journey.
 
 | Phase | Course | Status |
 |-------|--------|--------|
-| Phase 1 | Cyfrin: Blockchain Basics | ✅ Complete — Certified |
-| Phase 1 | Cyfrin: Solidity Fundamentals | 🟡 In Progress — Section 1 ✅ |
+| Phase 1 | Cyfrin: Blockchain Basics | ✅ Complete |
+| Phase 1 | Cyfrin: Solidity Fundamentals | 🟡 Section 3/4 |
 | Phase 1 | Cyfrin: Foundry Fundamentals | ⬜ Upcoming |
-| Phase 1 | Project: Smart Vault (EIP-7702) | ⬜ Upcoming |
+| Phase 1 | Project: Smart Vault | ⬜ Upcoming |
 
 ## Progress Log
 
 | Date | Milestone | Notes |
 |------|-----------|-------|
-| April 2026 | Repository created | Day 1 — Journey begins |
-| April 2026 | Cyfrin: Blockchain Basics | ✅ Complete — First try pass |
-| April 2026 | Cyfrin: Solidity Fundamentals | 🟡 Section 1 complete |
-| April 2026 | First LinkedIn Post Published | ✅ Public presence live |
+| April 2026 | Repository created | Day 1 |
+| April 2026 | Cyfrin: Blockchain Basics | ✅ Certified |
+| April 2026 | LinkedIn 3-Part Series | ✅ Published |
+| May 2026 | Solidity Practice | ✅ Challenges 1-7 |
+| May 2026 | FundMe v1 + Chainlink | ✅ Deployed Sepolia |
