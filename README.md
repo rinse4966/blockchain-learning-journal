@@ -1,31 +1,37 @@
-# Blockchain Learning Journal
+# Blockchain Learning Journal 🔨
 
-A documented record of my smart contract 
-development and blockchain architecture journey.
-
-**Focus Areas:**
-- Solidity & Foundry
-- Smart Contract Security
-- DeFi Protocol Architecture
-- Digital Asset Tokenomics
+Documenting my journey to Senior Blockchain Architect
+specializing in Digital Asset Tokenomics.
 
 ---
 
-## Roadmap Progress
+## 🎓 Certifications
+| Course | Status |
+|--------|--------|
+| Cyfrin: Blockchain Basics | ✅ Complete |
+| Cyfrin: Solidity Fundamentals | ✅ Complete |
+| Cyfrin: Foundry Fundamentals | 🟡 Upcoming |
 
-| Phase | Course | Status |
-|-------|--------|--------|
-| Phase 1 | Cyfrin: Blockchain Basics | ✅ Complete |
-| Phase 1 | Cyfrin: Solidity Fundamentals | 🟡 Section 3/4 |
-| Phase 1 | Cyfrin: Foundry Fundamentals | ⬜ Upcoming |
-| Phase 1 | Project: Smart Vault | ⬜ Upcoming |
+---
 
-## Progress Log
+## 📄 Contracts
+| Contract | Network | Notes |
+|----------|---------|-------|
+| FundMe.sol | Sepolia Testnet | CEI pattern + Chainlink |
 
-| Date | Milestone | Notes |
-|------|-----------|-------|
-| April 2026 | Repository created | Day 1 |
-| April 2026 | Cyfrin: Blockchain Basics | ✅ Certified |
-| April 2026 | LinkedIn 3-Part Series | ✅ Published |
-| May 2026 | Solidity Practice | ✅ Challenges 1-7 |
-| May 2026 | FundMe v1 + Chainlink | ✅ Deployed Sepolia |
+---
+
+## 📊 Progress
+| Date | Milestone |
+|------|-----------|
+| April 2026 | Repository created |
+| April 2026 | Blockchain Basics certified |
+| May 2026 | Solidity Fundamentals certified |
+| May 2026 | FundMe v2 deployed on Sepolia |
+
+---
+
+## 🔜 Next
+- Cyfrin: Foundry Fundamentals
+- SpeedRun Ethereum
+- Smart Vault Project (EIP-7702)
