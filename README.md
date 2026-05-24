@@ -28,6 +28,7 @@ specializing in Digital Asset Tokenomics.
 | April 2026 | Blockchain Basics certified |
 | May 2026 | Solidity Fundamentals certified |
 | May 2026 | FundMe v2 deployed on Sepolia |
+| May 2026 | Session 2 Complete | Inheritance + Events + Indexed |
 
 ---
 
